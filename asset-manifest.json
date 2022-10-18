@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/React-Music-Player/static/css/main.b04933ca.css",
+    "main.css": "/React-Music-Player/static/css/main.c0eaef5a.css",
     "main.js": "/React-Music-Player/static/js/main.8dc2f810.js",
     "static/js/787.c2652ce4.chunk.js": "/React-Music-Player/static/js/787.c2652ce4.chunk.js",
     "static/media/Doja_Cat_-_Kiss_Me_More_(Official_Video)_ft._SZA.m4a": "/React-Music-Player/static/media/Doja_Cat_-_Kiss_Me_More_(Official_Video)_ft._SZA.fc0eed56d3bc1ac6e84e.m4a",
@@ -15,12 +15,12 @@
     "static/media/Taylor_Swift_-_Cruel_Summer_(Official_Audio)(128kbps).m4a": "/React-Music-Player/static/media/Taylor_Swift_-_Cruel_Summer_(Official_Audio)(128kbps).1726255cc7b0b8b3bf7e.m4a",
     "static/media/image.png": "/React-Music-Player/static/media/image.f44ba6edd8f205738cd7.png",
     "index.html": "/React-Music-Player/index.html",
-    "main.b04933ca.css.map": "/React-Music-Player/static/css/main.b04933ca.css.map",
+    "main.c0eaef5a.css.map": "/React-Music-Player/static/css/main.c0eaef5a.css.map",
     "main.8dc2f810.js.map": "/React-Music-Player/static/js/main.8dc2f810.js.map",
     "787.c2652ce4.chunk.js.map": "/React-Music-Player/static/js/787.c2652ce4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b04933ca.css",
+    "static/css/main.c0eaef5a.css",
     "static/js/main.8dc2f810.js"
   ]
 }
