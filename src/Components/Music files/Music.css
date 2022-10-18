@@ -1,3 +1,9 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    overflow: hidden;
+}
+
 #MusicPage {
     height: 100vh;
     width: 100%;
