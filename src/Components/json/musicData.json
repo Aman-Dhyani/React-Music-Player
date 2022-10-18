@@ -1,0 +1,74 @@
+{
+    "music": [
+        {
+            "artist": "Taylor Swift",
+            "songName": "cruel summer",
+            "song": "https://github.com/muhammed/mini-player/blob/master/mp3/1.mp3",
+            "album": "Lover",
+            "artistPic": "https://www.rollingstone.com/wp-content/uploads/2019/08/taylor-swift-lover-review.jpg"
+        },
+        {
+            "artist": "Dua lipa",
+            "songName": "levitating",
+            "song": "/static/media/Dua_Lipa_-_Levitating_Featuring_DaBaby_(Official_Music_Video).f052cf05107607216165.m4a",
+            "album": "Future Nostalgia",
+            "artistPic": "https://egscholars.com/wp-content/uploads/2022/02/Dua-Lipa.jpg"
+        },
+        {
+            "artist": "Ruth B",
+            "songName": "Dandelions",
+            "song": "/static/media/Ruth_B._-_Dandelions_(Lyrics)(128kbps).6bdba0c3b9a89c556b08.m4a",
+            "album": "Save Heaven",
+            "artistPic": "https://a10.gaanacdn.com/images/albums/47/1890847/crop_480x480_1890847.jpg"
+        },
+        {
+            "artist": "The Weeknd",
+            "songName": "Out of Time",
+            "song": "/static/media/The_Weeknd_-_Out_of_Time_(Official_Video)(128kbps).a5b6077c8b78783871f1.m4a",
+            "album": "Dawn FM",
+            "artistPic": "https://i.scdn.co/image/ab67616d0000b273baae906c39533f95acb87d47"
+        },
+        {
+            "artist": "Doja Cat",
+            "songName": "Kiss Me More",
+            "song": "/static/media/Doja_Cat_-_Kiss_Me_More_(Official_Video)_ft._SZA.fc0eed56d3bc1ac6e84e.m4a",
+            "album": "Planet Her",
+            "artistPic": "https://upload.wikimedia.org/wikipedia/en/6/61/Doja_Cat_-_Planet_Her.png"
+        },
+        {
+            "artist": "Dua lipa",
+            "songName": "cool",
+            "song": "/static/media/Dua_Lipa_-_Cool_(Official_Lyrics_Video)(128k).c6ad19b0072555a7943f.m4a",
+            "album": "Future Nostalgia",
+            "artistPic": "https://egscholars.com/wp-content/uploads/2022/02/Dua-Lipa.jpg"
+        },
+        {
+            "artist": "FloRida",
+            "songName": "Wild Ones",
+            "song": "/static/media/Flo_Rida_-_Wild_Ones_ft._Sia_[Official_Video](128kbps).999a2eb381f8ad62518c.m4a",
+            "album": "Wild Ones",
+            "artistPic": "https://upload.wikimedia.org/wikipedia/en/b/b9/Flo_Rida_-Wild_Ones.jpg"
+        },
+        {
+            "artist": "Taylor Swift",
+            "songName": "I Did Something Bad",
+            "song": "/static/media/I_Did_Something_Bad.68d88da6280760e02be2.m4a",
+            "album": "Reputation",
+            "artistPic": "https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b"
+        },
+        {
+            "artist": "Niall Horan",
+            "songName": "Nice To Meet Ya",
+            "song": "/static/media/Niall_Horan_-_Nice_To_Meet_Ya_(Official)(128k).90c78dccd4dd9c52e5e5.m4a",
+            "album": "Heartbreak Weather",
+            "artistPic": "https://images.genius.com/0b5f800af709252d25a5fc56de090280.1000x1000x1.jpg"
+        },
+        {
+            "artist": "The Weeknd",
+            "songName": "Blinding Lights",
+            "song": "/static/media/The_Weeknd_-_Blinding_Lights_(Official_Video).24601217a6411a15cc29.m4a",
+            "album": "Blinding Lights",
+            "artistPic": "https://i0.wp.com/www.noise11.com/wp/wp-content/uploads/2021/01/The-Weeknd.jpg?fit=1500%2C1500&ssl=1"
+        }
+    ]
+}
