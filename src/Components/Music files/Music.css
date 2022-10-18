@@ -422,4 +422,9 @@
         bottom: 20%;
         font-size: 20px;
     }
+    .rhap_play-pause-button:before {
+        width: 30px;
+        height: 30px;
+        bottom: 10%;
+    }
 }
