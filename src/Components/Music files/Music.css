@@ -1,6 +1,4 @@
-*{
-    margin: 0%;
-    padding: 0%;
+* {
     overflow: hidden;
 }
 
@@ -127,7 +125,7 @@
 
 .rhap_progress-section {
     position: relative;
-    left:2%;
+    left: 2%;
     width: 95%;
     height: 20px;
     padding-bottom: 10px;
@@ -215,7 +213,7 @@
 
 .rhap_repeat-button {
     position: absolute;
-    left:7%;
+    left: 7%;
 }
 
 #suffle {
@@ -335,7 +333,6 @@
     .rhap_button-clear.rhap_volume-button {
         left: 85%;
     }
-
 }
 
 @media screen and (max-width:457px) {
@@ -375,7 +372,7 @@
         height: 20px;
         padding-bottom: 10px;
     }
-    
+
     .rhap_main-controls-button {
         margin-left: 5px;
         margin-right: 5px;
@@ -428,6 +425,7 @@
         bottom: 20%;
         font-size: 20px;
     }
+
     .rhap_play-pause-button:before {
         width: 30px;
         height: 30px;
