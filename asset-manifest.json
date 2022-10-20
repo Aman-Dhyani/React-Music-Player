@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/React-Music-Player/static/css/main.c9785a0e.css",
-    "main.js": "/React-Music-Player/static/js/main.dda8a0c9.js",
+    "main.css": "/React-Music-Player/static/css/main.bcae366f.css",
+    "main.js": "/React-Music-Player/static/js/main.7f7f97b1.js",
     "static/js/787.c2652ce4.chunk.js": "/React-Music-Player/static/js/787.c2652ce4.chunk.js",
     "static/media/Doja_Cat_-_Kiss_Me_More_(Official_Video)_ft._SZA.m4a": "/React-Music-Player/static/media/Doja_Cat_-_Kiss_Me_More_(Official_Video)_ft._SZA.fc0eed56d3bc1ac6e84e.m4a",
     "static/media/I_Did_Something_Bad.m4a": "/React-Music-Player/static/media/I_Did_Something_Bad.68d88da6280760e02be2.m4a",
@@ -15,12 +15,12 @@
     "static/media/Taylor_Swift_-_Cruel_Summer_(Official_Audio)(128kbps).m4a": "/React-Music-Player/static/media/Taylor_Swift_-_Cruel_Summer_(Official_Audio)(128kbps).1726255cc7b0b8b3bf7e.m4a",
     "static/media/image.png": "/React-Music-Player/static/media/image.f44ba6edd8f205738cd7.png",
     "index.html": "/React-Music-Player/index.html",
-    "main.c9785a0e.css.map": "/React-Music-Player/static/css/main.c9785a0e.css.map",
-    "main.dda8a0c9.js.map": "/React-Music-Player/static/js/main.dda8a0c9.js.map",
+    "main.bcae366f.css.map": "/React-Music-Player/static/css/main.bcae366f.css.map",
+    "main.7f7f97b1.js.map": "/React-Music-Player/static/js/main.7f7f97b1.js.map",
     "787.c2652ce4.chunk.js.map": "/React-Music-Player/static/js/787.c2652ce4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c9785a0e.css",
-    "static/js/main.dda8a0c9.js"
+    "static/css/main.bcae366f.css",
+    "static/js/main.7f7f97b1.js"
   ]
 }
